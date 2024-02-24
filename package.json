@@ -1,0 +1,22 @@
+{
+  "name": "stackblitz-starters-nb7uip",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "18.2.55",
+    "@types/react-dom": "18.2.19",
+    "echarts": "^3.0.0 || ^4.0.0 || ^5.0.0",
+    "echarts-for-react": "^3.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
